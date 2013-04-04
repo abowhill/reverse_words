@@ -30,22 +30,22 @@ After compiling these java classes, you can run them by supplying the list of wo
 
 Which will result in the following dump to stdout:
 
- country.
- their
- of
- aid
- the
- to
- come
- to
- men
- good
- all
- for
- time
- the
- is
- Now
+	country.
+	their
+	of
+	aid
+	the
+	to
+	come
+	to
+	men
+	good
+	all
+	for
+	time
+	the
+	is
+	Now
 
 * Alternately, the same result will be obtained if the sentence is passed as a single parameter contained in quotes:
 
